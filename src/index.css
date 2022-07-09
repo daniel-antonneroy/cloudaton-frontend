@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 'border-box';
+    font-family: 'Roboto';
+}
+
+@font-face {
+    font-family: 'Gila-Bold';
+    src: url('./app/shared/assets/fonts/Gila-Bold.ttf') format('truetype');
+}
+
+img {
+  user-drag: none;
+  -moz-user-select: none; 
+  -webkit-user-drag: none;
+
+}
+
+::-webkit-scrollbar {
+  width: '5px';
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: '10px';
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: '#888';
+  border-radius: '5px';
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: '#555';
+}
