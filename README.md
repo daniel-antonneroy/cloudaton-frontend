@@ -24,3 +24,6 @@ In the proccess of re-organising & developing the front-end. (see images of comp
 ![image uploading](https://user-images.githubusercontent.com/73724840/178278416-212060ac-3ddc-4850-b39e-95a7c7cebe05.png)
 
 ![image gallery](https://user-images.githubusercontent.com/73724840/178278949-aebc53b6-290c-4195-b511-e579b3805fba.png)
+
+
+See the backend progress: https://github.com/daniel-antonneroy/cloudaton-backend
